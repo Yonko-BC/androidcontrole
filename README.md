@@ -16,7 +16,7 @@ Controle : Réalisation d'une application Android contenant :
 ### Interface 2: gallerie Page
 
 
-![Show All Patients](/gallerie.png)
+![Show All Patients](/gallerie)
 
 ### Interface 3: convert to mad 
 
