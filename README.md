@@ -11,7 +11,7 @@ Controle : Réalisation d'une application Android contenant :
 ### Interface 1: home Page
 
 
-![Login Page](/gallerie.png)
+![Login Page](/home.png)
 
 ### Interface 2: gallerie Page
 
